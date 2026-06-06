@@ -1,0 +1,614 @@
+[
+  {
+    "paragraph": "§ 1.1 StGB",
+    "offense": "Körperverletzung",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.2 StGB",
+    "offense": "Mord *",
+    "fine": "50.000 $",
+    "wanted": "★★★★★"
+  },
+  {
+    "paragraph": "§ 1.3 StGB",
+    "offense": "Totschlag",
+    "fine": "50.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 1.5 StGB",
+    "offense": "Geiselnahme *",
+    "fine": "30.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 1.5a) StGB",
+    "offense": "Freiheitsberaubung *",
+    "fine": "25.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.6 StGB",
+    "offense": "Raub (Laden/ATM/Personen) *",
+    "fine": "15.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 1.7 StGB",
+    "offense": "Wahlbehinderung *",
+    "fine": "25.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 1.8 StGB",
+    "offense": "Vertragsbruch",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.9 StGB",
+    "offense": "Erpressung",
+    "fine": "40.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.9a) StGB",
+    "offense": "Betrug",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 1.10 StGB",
+    "offense": "Beleidigung",
+    "fine": "20.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 1.10b)",
+    "offense": "Üble Nachrede",
+    "fine": "20.000$",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.11 StGB",
+    "offense": "Sexuelle Belästigung",
+    "fine": "50.000 $",
+    "wanted": "★★★★★"
+  },
+  {
+    "paragraph": "§ 1.12 StGB",
+    "offense": "Dokumentenfälschung *",
+    "fine": "40.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 1.13 StGB",
+    "offense": "Drohung",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.13a) StGB",
+    "offense": "Gefährliche Drohung *",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.14 StGB",
+    "offense": "Diebstahl",
+    "fine": "15.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.14a) StGB",
+    "offense": "Fahrzeugdiebstahl",
+    "fine": "35.000$",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 1.15 StGB",
+    "offense": "Nachstellung",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.16 StGB",
+    "offense": "Unterlassene Hilfeleistung",
+    "fine": "25.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.16a) StGB",
+    "offense": "Behinderung von hilfeleistenden Personen",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.17 StGB",
+    "offense": "Nötigung",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.18 StGB",
+    "offense": "Menschenhandel *",
+    "fine": "50.000 $",
+    "wanted": "★★★★★"
+  },
+  {
+    "paragraph": "§ 2.1 StGB",
+    "offense": "Widerstand gegen Exekutivbeamte",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 2.1a) StGB",
+    "offense": "Missachtung behördlicher Anweisungen",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 2.2 StGB",
+    "offense": "Sperrzonen-Regelung *",
+    "fine": "50.000 $",
+    "wanted": "★★★★★"
+  },
+  {
+    "paragraph": "§ 2.3 StGB",
+    "offense": "Behinderung von Ermittlungsverfahren *",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 2.4 StGB",
+    "offense": "Behinderung von Rettungskräften *",
+    "fine": "45.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 2.5 StGB",
+    "offense": "Fehlverhalten auf staatlichem Organisationsgelände",
+    "fine": "50.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 2.7 StGB",
+    "offense": "Beihilfe von Gefangenenbefreiung *",
+    "fine": "40.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 2.8  StGB",
+    "offense": "Betreten von Behördenfahrzeugen",
+    "fine": "30.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 3.1 StGB",
+    "offense": "Amtsanmaßung *",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.2 StGB",
+    "offense": "Tragen einer Vermummung in der Öffentlichkeit",
+    "fine": "10.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 3.3 StGB",
+    "offense": "Verweigerung der Identitätsfeststellung",
+    "fine": "20.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.5 StGB",
+    "offense": "Illegales Glücksspiel",
+    "fine": "15.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.6 StGB",
+    "offense": "Tragen einer Waffe ohne Waffenschein",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.6a StGB",
+    "offense": "Waffenmissbrauch",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.7 StGB",
+    "offense": "Sachbeschädigung",
+    "fine": "10.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 3.8 StGB",
+    "offense": "Hehlerei und Waffenhandel *",
+    "fine": "30.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 3.10 StGB",
+    "offense": "Hausfriedensbruch",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.11 StGB",
+    "offense": "Enfällt",
+    "fine": "",
+    "wanted": ""
+  },
+  {
+    "paragraph": "§ 3.12 StGB",
+    "offense": "Vortäuschen einer Straftat",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.12a) StGB",
+    "offense": "Androhung der Begehung einer Straftat",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.13 StGB",
+    "offense": "Meineid",
+    "fine": "30.000 $",
+    "wanted": "★★★★★"
+  },
+  {
+    "paragraph": "§ 3.14 StGB",
+    "offense": "Besitz von Behördeneigentum",
+    "fine": "40.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.14a) StGB",
+    "offense": "Missbrauch von Behördeneigentum *",
+    "fine": "40.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 3.14 b) StGB",
+    "offense": "§ 3.14 b) StGB",
+    "fine": "Medizinische Masken und Medic- / Lifeinvader Westen",
+    "wanted": "40.000  $"
+  },
+  {
+    "paragraph": "§ 3.14 b) StGB",
+    "offense": "",
+    "fine": "",
+    "wanted": ""
+  },
+  {
+    "paragraph": "§ 3.15 StGB",
+    "offense": "Besitz von illegalen Waffen",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.16 StGB",
+    "offense": "Besitz von illegalen Gegenständen",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.17 a) StGB",
+    "offense": "Kontaktverbot",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.20 StGB",
+    "offense": "Außergerichtliche Falschaussage",
+    "fine": "15.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.21 StGB",
+    "offense": "Missbrauch eines Notrufes",
+    "fine": "30.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.22 StGB",
+    "offense": "Unterschlagung von Beweismitteln/Straftaten *",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.24 StGB",
+    "offense": "Weitergabe von Lizenzen",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.25 StGB",
+    "offense": "Privater An- und Verkauf von Arzneimitteln",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.25a) StGB",
+    "offense": "wiederholter Privater An- und Verkauf von Arzneimitteln",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.26 StGB",
+    "offense": "ungenehmigte Versammlungen",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 3.26a) StGB",
+    "offense": "bewaffnete Versammlungen *",
+    "fine": "50.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 3.27 StGB",
+    "offense": "Amtsmissbrauch *",
+    "fine": "45.000 $",
+    "wanted": "★★★★"
+  },
+  {
+    "paragraph": "§ 3.28 StGB",
+    "offense": "Umgehen der Meldepflicht von Straftaten",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 3.29 StGB",
+    "offense": "Erregung öffentlichen Ärgernisses",
+    "fine": "15.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.30 StGB",
+    "offense": "Tierquälerei",
+    "fine": "20.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.31 StGB",
+    "offense": "Patentrechtsverletzung",
+    "fine": "30.000 $",
+    "wanted": "-.-"
+  },
+  {
+    "paragraph": "§ 3.31a) StGB",
+    "offense": "Wiederholte Patentrechtsverletzung",
+    "fine": "30.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.32 StGB",
+    "offense": "Sharing-Cars",
+    "fine": "30.000 $",
+    "wanted": "-.-"
+  },
+  {
+    "paragraph": "§ 4.1 StGB",
+    "offense": "Herstellung von BTM",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 4.2a) StGB",
+    "offense": "Besitz von BTM (gering)",
+    "fine": "20.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 4.2b) StGB",
+    "offense": "Besitz von BTM (hoch)",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 4.3 StGB",
+    "offense": "Verkauf/Ankauf von BTM",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 5.1a) StGB",
+    "offense": "Hochverrat",
+    "fine": "50.000 $",
+    "wanted": "★★★★★"
+  },
+  {
+    "paragraph": "§ 5.1c) StGB",
+    "offense": "Dienstvergehen",
+    "fine": "45.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 5.5a) StGB",
+    "offense": "Rechtsbelehrung",
+    "fine": "30.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "$7.1a) StGB",
+    "offense": "Missbrauch von Lifeinvader Schaltungen",
+    "fine": "30.000$",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 7.1b) StGB",
+    "offense": "Schwerer Missbrauch von Lifeinvader Schaltungen",
+    "fine": "30.000$",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 8.1 StGB",
+    "offense": "Steuerhinterziehung",
+    "fine": "25.000$",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 8.2 StGB",
+    "offense": "Schwere Steuerhinterziehung",
+    "fine": "40.000$",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 8.3 StGB",
+    "offense": "Nicht angezeigte Unternehmensänderung",
+    "fine": "25.000$",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 8.4 StGB",
+    "offense": "Verstoß trotz Aufforderung",
+    "fine": "30.000$",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 1.3a) StVO",
+    "offense": "Flucht vor Verkehrskontrolle",
+    "fine": "40.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.4 StVO",
+    "offense": "Stören eines Versorgungstrucks",
+    "fine": "30.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 1.5 StVO",
+    "offense": "Durchbrechen von Absperrungen",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 1.6 StVO",
+    "offense": "Stören eines staatlichen Konvois",
+    "fine": "50.000 $",
+    "wanted": "★★★"
+  },
+  {
+    "paragraph": "§ 2.2 StVO",
+    "offense": "Fahren ohne Lizenz",
+    "fine": "15.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 2.4 StVO",
+    "offense": "Belästigung, Behinderung, Gefährdung im Straßenverkehr",
+    "fine": "15.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 2.5 StVO",
+    "offense": "Einfluss unter BTM",
+    "fine": "30.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 2.8 StVO",
+    "offense": "Mitführpflicht von Verbandskasten und Reparaturkit",
+    "fine": "10.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 2.9 StVO",
+    "offense": "Massive Ausnutzung der Hupe",
+    "fine": "30.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3.5 StVO",
+    "offense": "Nutzung von High- und Freeway mit Fahrzeugen unter 80 km/h",
+    "fine": "20.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 3.6a) StVO",
+    "offense": "Geschwindigkeitsüberschreitung um 25-100 Km/h",
+    "fine": "15.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 3.6b) StVO",
+    "offense": "Geschwindigkeitsüberschreitung um 101-200 Km/h",
+    "fine": "30.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 3.6c) StVO",
+    "offense": "Geschwindigkeitsüberschreitung um 201-XXX Km/h",
+    "fine": "40.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 4 StVO",
+    "offense": "Missachtung von entsprechenden Vorfahrtsregelungen",
+    "fine": "10.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 5.5 StVO",
+    "offense": "Falschparken (Kraftfahrzeuge)",
+    "fine": "20.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 5.6 StVO",
+    "offense": "Falschparken (Flug Verkehrsmitteln)",
+    "fine": "30.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 6.1 StVO",
+    "offense": "Fahrzeug mit erheblichen Schäden",
+    "fine": "15.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 6.3 StVO",
+    "offense": "Fahrzeug mit leerem Tank",
+    "fine": "10.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 8.3 StVO",
+    "offense": "Fahrerflucht",
+    "fine": "20.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 9  StVO",
+    "offense": "Nichtbeachtung von Bodenmarkierungen etc.",
+    "fine": "10.000 $",
+    "wanted": "-,-"
+  },
+  {
+    "paragraph": "§ 10 StVO",
+    "offense": "Gefährlicher Eingriff in den Straßenverkehr",
+    "fine": "30.000 $",
+    "wanted": "★★"
+  },
+  {
+    "paragraph": "§ 11 StVO",
+    "offense": "Fahrzeuge ohne Kennzeichen",
+    "fine": "20.000 $",
+    "wanted": "★"
+  },
+  {
+    "paragraph": "§ 3 PressG",
+    "offense": "Einflussnahme auf die Presse",
+    "fine": "40.000 $",
+    "wanted": "★"
+  }
+]
