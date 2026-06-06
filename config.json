@@ -1,0 +1,25 @@
+{
+  "threads": {
+    "Pressegesetz - PressG":              { "url": "https://gta5grand.com/forum/threads/897591/" },
+    "Militärgesetz - MG":                 { "url": "https://gta5grand.com/forum/threads/895630/" },
+    "Code of Criminal Procedure - CCP":   { "url": "https://gta5grand.com/forum/threads/101452/" },
+    "Handelsgesetzbuch - HGB":            { "url": "https://gta5grand.com/forum/threads/101453/" },
+    "Straßenverkehrsordnung - StVO":      { "url": "https://gta5grand.com/forum/threads/101451/" },
+    "Arbeitsschutzgesetz - ArbSchG":      { "url": "https://gta5grand.com/forum/threads/101450/" },
+    "Beamtendienstgesetz - BDG":          { "url": "https://gta5grand.com/forum/threads/101449/" },
+    "Bußgeldkatalog": {
+      "url": "https://gta5grand.com/forum/threads/101448/",
+      "exportTable": true,
+      "tableSchema": {
+        "Paragraph":   "paragraph",
+        "Vergehen":    "offense",
+        "Geldstrafe":  "fine",
+        "Wanteds":     "wanted"
+      }
+    },
+    "Strafgesetzbuch - StGB":             { "url": "https://gta5grand.com/forum/threads/101447/" },
+    "Verfassung des Staates San-Andreas": { "url": "https://gta5grand.com/forum/threads/101446/" },
+    "Waffengesetz":                       { "url": "https://gta5grand.com/forum/threads/101444/" },
+    "Bürgerliches Gesetzbuch - BGB":      { "url": "https://gta5grand.com/forum/threads/101442/" }
+  }
+}
