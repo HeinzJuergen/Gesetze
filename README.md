@@ -1,20 +1,20 @@
 # Gesetze — Scraper
 
-Scrapt die Gesetzbücher von gta5grand.com und committet Änderungen auf den `main`-Branch, sodass die Git-History als Changelog dient.
+Scrapt die Gesetzbücher von gta5grand.com und committet Änderungen auf den [`gesetze`-Branch](../../tree/gesetze), sodass die Git-History als Changelog dient.
 
 ## Stack
 
 - **Bun** — Runtime + Scraper-Logik
 - **cheerio** — HTML-Parsing
 - **curl_cffi** (Python) — Cloudflare-Bypass via Chrome TLS-Impersonation
-- **git worktree** — `out/` ist der `main`-Branch
+- **git worktree** — `out/` ist der `gesetze`-Branch
 
 ## Setup
 
 ```powershell
 bun install
 pip install curl_cffi
-git worktree add out main
+git worktree add out gesetze
 ```
 
 ## Verwendung
@@ -23,7 +23,7 @@ git worktree add out main
 bun index.ts
 ```
 
-Scrapet alle konfigurierten Threads, schreibt Markdown nach `out/` und committet auf `main` — nur bei inhaltlichen Änderungen.
+Scrapet alle konfigurierten Threads, schreibt Markdown nach `out/` und committet auf `gesetze` — nur bei inhaltlichen Änderungen.
 
 ## Threads konfigurieren
 
@@ -32,7 +32,7 @@ Scrapet alle konfigurierten Threads, schreibt Markdown nach `out/` und committet
 ```json
 {
   "threads": {
-    "Strafgesetzbuch - StGB": "https://gta5grand.com/forum/threads/101447/"
+    "Strafgesetzbuch - StGB": { "url": "https://gta5grand.com/forum/threads/101447/" }
   }
 }
 ```
@@ -41,4 +41,4 @@ Key = Dateiname (`Strafgesetzbuch - StGB.md`).
 
 ## CI
 
-GitHub Action (`.github/workflows/scrape.yml`) läuft täglich um 6 Uhr und ist manuell triggerbar. Commits auf `main` laufen unter `github-actions[bot]`.
+GitHub Action (`.github/workflows/scrape.yml`) läuft täglich um 6 Uhr und ist manuell triggerbar. Commits auf `gesetze` laufen unter `github-actions[bot]`.

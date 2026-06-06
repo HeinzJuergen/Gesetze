@@ -14,11 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: scraper
+          ref: main
 
       - uses: actions/checkout@v4
         with:
-          ref: main
+          ref: gesetze
           path: out
 
       - name: Datum setzen
@@ -36,7 +36,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           repository: out
-          branch: main
+          branch: gesetze
           commit_message: "scrape: ${{ steps.date.outputs.value }} (${{ github.run_id }})"
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
